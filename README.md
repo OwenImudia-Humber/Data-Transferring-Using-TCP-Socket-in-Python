@@ -6,10 +6,13 @@ This project demonstrates a basic TCP client-server file transfer system written
 
 Networking/
 │
+
 ├──.idea
+
     ├── server.py
     ├── client.py
     ├── mytext.txt
+    
 ├── README.md
 
 
